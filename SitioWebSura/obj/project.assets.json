@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    ".NETCoreApp,Version=v3.1": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0": []
+    ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
     "C:\\Users\\MILTON-PC\\.nuget\\packages\\": {}
@@ -13,24 +13,23 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DEV_MODE\\WORSPACES\\AZURE_DEV\\SitioWebSura\\SitioWebSura.csproj",
+      "projectUniqueName": "C:\\DEV_MODE\\WORSPACES\\AZURE_DEV\\AZURE_DEV_SURA\\SitioWebSura\\SitioWebSura.csproj",
       "projectName": "SitioWebSura",
-      "projectPath": "C:\\DEV_MODE\\WORSPACES\\AZURE_DEV\\SitioWebSura\\SitioWebSura.csproj",
+      "projectPath": "C:\\DEV_MODE\\WORSPACES\\AZURE_DEV\\AZURE_DEV_SURA\\SitioWebSura\\SitioWebSura.csproj",
       "packagesPath": "C:\\Users\\MILTON-PC\\.nuget\\packages\\",
-      "outputPath": "C:\\DEV_MODE\\WORSPACES\\AZURE_DEV\\SitioWebSura\\obj\\",
+      "outputPath": "C:\\DEV_MODE\\WORSPACES\\AZURE_DEV\\AZURE_DEV_SURA\\SitioWebSura\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MILTON-PC\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net6.0"
+        "netcoreapp3.1"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "netcoreapp3.1": {
           "projectReferences": {}
         }
       },
@@ -41,16 +40,14 @@
       }
     },
     "frameworks": {
-      "net6.0": {
-        "targetAlias": "net6.0",
+      "netcoreapp3.1": {
         "imports": [
           "net461",
           "net462",
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -62,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.423\\RuntimeIdentifierGraph.json"
       }
     }
   }
