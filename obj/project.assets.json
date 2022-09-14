@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DEV_MODE\\WORSPACES\\AZURE_DEV\\AZURE_DEV_SURA\\SitioWebSura\\SitioWebSura.csproj",
+      "projectUniqueName": "C:\\DEV_MODE\\WORSPACES\\AZURE_DEV\\AZURE_DEV_SURA\\SitioWebSura.csproj",
       "projectName": "SitioWebSura",
-      "projectPath": "C:\\DEV_MODE\\WORSPACES\\AZURE_DEV\\AZURE_DEV_SURA\\SitioWebSura\\SitioWebSura.csproj",
+      "projectPath": "C:\\DEV_MODE\\WORSPACES\\AZURE_DEV\\AZURE_DEV_SURA\\SitioWebSura.csproj",
       "packagesPath": "C:\\Users\\MILTON-PC\\.nuget\\packages\\",
-      "outputPath": "C:\\DEV_MODE\\WORSPACES\\AZURE_DEV\\AZURE_DEV_SURA\\SitioWebSura\\obj\\",
+      "outputPath": "C:\\DEV_MODE\\WORSPACES\\AZURE_DEV\\AZURE_DEV_SURA\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MILTON-PC\\AppData\\Roaming\\NuGet\\NuGet.Config"
